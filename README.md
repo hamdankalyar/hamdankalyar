@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @hamdankalyar104
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning webdevelopment
-- 💞️ I’m looking to collaborate on other content on github 
-- 📫 How to reach me hamdan.kalyar@gmail.com
+# Hamdan Kalyar 👨‍💻
 
-<!---
-hamdankalyar104/hamdankalyar104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, world! 🌍 I'm Hamdan, a dedicated software engineer with a passion for crafting meaningful digital experiences. My journey in the tech world began with the elegance of Java and has since expanded to the dynamic realms of web and mobile development.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamdankalyar&show_icons=true&theme=radical" alt="Hamdan Kalyar's GitHub Stats">
+</p>
+
+## 🚀 Skills & Expertise
+
+- **Languages**: ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+- **Web Technologies**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap) ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
+- **Frameworks/Libraries**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)
+
+## 📖 My Story
+
+From building console applications in Java to creating responsive and interactive web pages with JavaScript, HTML, and CSS, my journey has been nothing short of exhilarating. I've embraced the power of frameworks like React for web and React Native for mobile, ensuring seamless user experiences across platforms. Alongside, I've mastered the art of styling with Bootstrap and Sass, ensuring pixel-perfect designs come to life.
+
+## 🌐 Open Source Contributions
+
+I believe in the power of community and open source. Dive into my repositories to explore projects, collaborations, and the value I bring to the table. I'm always eager to collaborate and contribute to meaningful projects.
+
+## 🤝 Let's Connect!
+
+Whether you're looking for a collaborator on an exciting project or just want to chat about the latest in tech, I'm all ears. Reach out!
+
+- 🌐 [Portfolio](#) 
+- 📧 [Email](mailto:hamdankalyar@example.com)
+- 🐦 [Twitter](https://twitter.com/hamdankalyar)
+- 📸 [Instagram](https://instagram.com/hamdankalyar)
+
+---
+
+⭐️ From [hamdankalyar](https://github.com/hamdankalyar)
+
