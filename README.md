@@ -2,9 +2,6 @@
 
 Hello, world! 🌍 I'm Hamdan, a dedicated software engineer with a passion for crafting meaningful digital experiences. My journey in the tech world began with the elegance of Java and has since expanded to the dynamic realms of web and mobile development.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamdankalyar&show_icons=true&theme=radical" alt="Hamdan Kalyar's GitHub Stats">
-</p>
 
 ## 🚀 Skills & Expertise
 
