@@ -12,6 +12,13 @@ Hello, world! 🌍 I'm Hamdan, a dedicated software engineer with a passion for 
 ## 📖 My Story
 
 From building console applications in Java to creating responsive and interactive web pages with JavaScript, HTML, and CSS, my journey has been nothing short of exhilarating. I've embraced the power of frameworks like React for web and React Native for mobile, ensuring seamless user experiences across platforms. Alongside, I've mastered the art of styling with Bootstrap and Sass, ensuring pixel-perfect designs come to life.
+Sure! Here's an additional section to introduce your first article:
+
+## 📝 My Latest Article
+
+I'm excited to share my insights and experiences with the community through my writings. Dive into my latest article where I discuss efficient data rendering with FlatList in React Native. This piece provides a deep dive into the nuances of rendering large lists of data in mobile applications, ensuring both performance and a great user experience.
+
+- 📖 [Efficient Data Rendering with FlatList in React Native](https://medium.com/@hamdan.kalyar/efficient-data-rendering-with-flatlist-in-react-native-46069a62f9c9)
 
 ## 🌐 Open Source Contributions
 
